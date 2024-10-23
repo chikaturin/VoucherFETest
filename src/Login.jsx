@@ -17,7 +17,7 @@ const Login = () => {
   const URL = "https://servervoucher.vercel.app/api";
 
   function handleLoginSSO() {
-    sso.redirectToLogin("http://localhost:2106/");
+    sso.redirectToLogin("https://voucher-fe-test.vercel.app/");
   }
   const handleLogin = async (e) => {
     e.preventDefault();
