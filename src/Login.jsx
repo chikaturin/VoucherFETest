@@ -97,7 +97,7 @@ const Login = () => {
   };
 
   return (
-    <div className="flex items-center justify-center w-full h-screen bg-cover bg-[url('https://cdnb.artstation.com/p/assets/images/images/057/530/061/4k/arnold-folls-greenscenerywallpapers4k-51.jpg?1671839033')]">
+    <div className="flex items-center justify-center w-full h-screen bg-cover bg-[url('https://png.pngtree.com/thumb_back/fw800/background/20240322/pngtree-panoramic-landscape-with-a-beautiful-waterfall-in-scenic-nature-environment-painting-image_15643244.jpg')]">
       <div
         className="w-full lg:w-1/3 bg-white bg-opacity-50 backdrop-blur-md rounded-3xl text-[#2F4F4F] overflow-hidden shadow-xl shadow-[#2F4F4F]"
         id="loginForm"

@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { AuthContext } from "../Router/ProtectedRoute";
-import logo from "../assets/logo.png";
+import logo from "../assets/logo-2da.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faRightFromBracket } from "@fortawesome/free-solid-svg-icons";
 import { useNavigate } from "react-router-dom";

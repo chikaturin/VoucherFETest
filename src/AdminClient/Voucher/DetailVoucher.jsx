@@ -4,7 +4,7 @@ import {
   faTrash,
   faEdit,
   faXmark,
-  faBug,
+  faWrench,
 } from "@fortawesome/free-solid-svg-icons";
 import { useParams } from "react-router-dom";
 import { Link } from "react-router-dom";
